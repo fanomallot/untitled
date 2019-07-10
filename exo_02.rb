@@ -1,3 +1,4 @@
 puts " bonjour ,monde !"
-puts "et avec une voix sexy,ca donne :bonjour,monde!"
+#
+ "Et avec une voix sexy,ca donne :bonjour,monde!"
 
